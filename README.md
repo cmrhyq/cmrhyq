@@ -32,7 +32,7 @@
 
 
 
-## Quick Links
+## 🗒 Quick Links
 <p align="center">
 	<a href="https://github.com/cmrhyq" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/cmrhyq/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
