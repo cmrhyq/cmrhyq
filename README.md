@@ -40,7 +40,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently working on **[LLMTestAgent](https://github.com/cmrhyq/LLMTestAgent)** — an AI-powered API automation testing agent built on large language models
+- 🔭 I'm currently working on **[TestAgents](https://github.com/cmrhyq/TestAgents)** — an AI-powered API automation testing agent built on large language models
 - 🌱 I'm passionate about combining **AI/LLM** with **software testing** to build intelligent QA solutions
 - 🛠️ I specialize in **test automation**, **full-stack development**, and **DevOps tooling**
 - 🏢 Based in **Shenzhen, China**
